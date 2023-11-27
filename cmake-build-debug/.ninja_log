@@ -1,0 +1,14 @@
+# ninja log v5
+1	386	7227190610463917	CMakeFiles/Lab6.dir/main.cpp.obj	cdf35720de68b6f9
+4	388	7227190610463917	CMakeFiles/Lab6.dir/fraction.cpp.obj	7dc8b64243abc8cd
+388	594	7227190612504008	Lab6.exe	c38ecc80c8427d1d
+2	244	7227191316268287	CMakeFiles/Lab6.dir/main.cpp.obj	cdf35720de68b6f9
+245	313	7227191316934752	Lab6.exe	c38ecc80c8427d1d
+1	252	7227192439010161	CMakeFiles/Lab6.dir/main.cpp.obj	cdf35720de68b6f9
+252	320	7227192439666604	Lab6.exe	c38ecc80c8427d1d
+2	256	7227193219005716	CMakeFiles/Lab6.dir/main.cpp.obj	cdf35720de68b6f9
+6	262	7227193219083585	CMakeFiles/Lab6.dir/fraction.cpp.obj	7dc8b64243abc8cd
+262	329	7227193219724555	Lab6.exe	c38ecc80c8427d1d
+2	269	7227193934526885	CMakeFiles/Lab6.dir/main.cpp.obj	cdf35720de68b6f9
+5	274	7227193934579672	CMakeFiles/Lab6.dir/fraction.cpp.obj	7dc8b64243abc8cd
+274	337	7227193935177368	Lab6.exe	c38ecc80c8427d1d
